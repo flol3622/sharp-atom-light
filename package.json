@@ -1,8 +1,8 @@
 {
-	"name": "sharp-solarized",
-	"displayName": "Sharp Solarized - Light High Contrast",
-	"description": "Sepia-toned, high-contrast light theme",
-	"version": "1.0.0",
+	"name": "sharp-atom-light",
+	"displayName": "Sharp Atom Light",
+	"description": "Sharp edged atom light theme",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.100.0"
 	},
@@ -33,6 +33,6 @@
 			}
 		]
 	},
-	"repository": "https://github.com/joshspicer/sharp-solarized.git",
-	"publisher": "joshspicer"
+	"repository": "https://github.com/flol3622/sharp-atom-light",
+	"publisher": "flol3622"
 }
